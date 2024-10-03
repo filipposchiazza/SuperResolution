@@ -1,0 +1,7 @@
+
+# model's directory
+models/
+
+# pyhton 
+*.pyc
+__pycache__/
